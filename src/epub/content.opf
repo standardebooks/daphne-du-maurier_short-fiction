@@ -31,9 +31,10 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short stories by the English writer Daphne du Maurier.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/daphne-du-maurier"&gt;Daphne du Maurier&lt;/a&gt;, one of the premier English novelists of the twentieth century, was also an accomplished short story writer. As with her novels, her short stories can be both humorous and dark, often with open endings. Many of them are framed around psychological themes, and feature characters who have difficulties precisely communicating.&lt;/p&gt;
+			&lt;p&gt;Some of her later shorts were put to film, most famously &lt;i&gt;The Birds&lt;/i&gt; by Alfred Hitchcock in 1963. More recently her short stories have been singled out for praise by the American horror author Stephen King. Collected here are all of Du Maurier’s short stories that are known to be in the public domain, arranged by first publication date. It will be updated over the coming years as more works become available.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Terror, Bystander, December 26 1928 -->
