@@ -12,6 +12,10 @@
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+
 #the-supreme-artist blockquote{
 	font-style: italic;
 }
