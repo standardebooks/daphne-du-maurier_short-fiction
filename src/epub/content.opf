@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/daphne-du-maurier/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-01T16:00:23Z</dc:date>
+		<meta property="dcterms:modified">2026-01-01T16:00:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,10 +32,10 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of short stories by the English writer Daphne du Maurier.</dc:description>
+		<dc:description id="description">A collection of short stories by Daphne du Maurier.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/daphne-du-maurier"&gt;Daphne du Maurier&lt;/a&gt;, one of the premier English novelists of the twentieth century, was also an accomplished short story writer. As with her novels, her short stories can be both humorous and dark, often with open endings. Many of them are framed around psychological themes, and feature characters who have difficulties precisely communicating.&lt;/p&gt;
-			&lt;p&gt;Some of her later shorts were put to film, most famously &lt;i&gt;The Birds&lt;/i&gt; by Alfred Hitchcock in 1963. More recently her short stories have been singled out for praise by the American horror author Stephen King. Collected here are all of du Maurier’s short stories that are known to be in the public domain, arranged by first publication date. It will be updated over the coming years as more works become available.&lt;/p&gt;
+			&lt;p&gt;Some of her later shorts were made into films, most famously Alfred Hitchcock’s &lt;i&gt;The Birds&lt;/i&gt;. More recently her short stories have been singled out for praise by the American horror author Stephen King. Collected here are all of du Maurier’s short stories that are known to be in the public domain, arranged by first publication date.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!-- Terror, Bystander, December 26 1928 -->
@@ -52,9 +52,8 @@
 		<dc:source>https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1930-10-04_150_3910/page/400/mode/2up</dc:source>
 		<!-- Indiscretion, November 28, 1930 -->
 		<dc:source>https://archive.org/details/the-bystander/1930-1939/1930/The%20Bystander%20%231406Av108%20%281930-11-28%29%20-%20Christmas%20Issue%20%28BNA%29/page/60/mode/2up</dc:source>
-		<meta property="se:production-notes">“And Now to God the Father” was originally published in the May 5th, 1929 edition of Bystander. The scans on IA have stains that make part of the text unreadable. The story was reprinted in Early Stories (1954) with some paragraphs not included in the Bystander version. Scans for “Adieu Sagesse” (Cassell’s Magazine, #223 October 1930) have not been found.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">19986</meta>
+		<meta property="se:reading-ease.flesch">84.98</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/daphne-du-maurier_short-fiction</meta>
 		<dc:creator id="author">Daphne du Maurier</dc:creator>
 		<meta property="file-as" refines="#author">du Maurier, Daphne</meta>
@@ -76,6 +75,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
