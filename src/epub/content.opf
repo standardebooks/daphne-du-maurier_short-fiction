@@ -52,7 +52,7 @@
 		<dc:source>https://archive.org/details/sim_saturday-review-uk_the-saturday-review_1930-10-04_150_3910/page/400/mode/2up</dc:source>
 		<!-- Indiscretion, November 28, 1930 -->
 		<dc:source>https://archive.org/details/the-bystander/1930-1939/1930/The%20Bystander%20%231406Av108%20%281930-11-28%29%20-%20Christmas%20Issue%20%28BNA%29/page/60/mode/2up</dc:source>
-		<meta property="se:word-count">19986</meta>
+		<meta property="se:word-count">19484</meta>
 		<meta property="se:reading-ease.flesch">84.98</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/daphne-du-maurier_short-fiction</meta>
 		<dc:creator id="author">Daphne du Maurier</dc:creator>
