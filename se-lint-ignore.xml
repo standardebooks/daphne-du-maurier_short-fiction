@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="content.opf">
-		<ignore>
-			<code>m-007</code>
+		<ignore code="m-007">
 			<reason>Sources link to page on which stories appear.</reason>
 		</ignore>
 	</file>
