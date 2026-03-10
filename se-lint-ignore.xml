@@ -2,6 +2,13 @@
 <se-lint-ignore>
 	<file path="content.opf">
 		<ignore code="m-007">
+			<line>42</line>
+			<line>44</line>
+			<line>46</line>
+			<line>48</line>
+			<line>50</line>
+			<line>52</line>
+			<line>54</line>
 			<reason>Sources link to page on which stories appear.</reason>
 		</ignore>
 	</file>
