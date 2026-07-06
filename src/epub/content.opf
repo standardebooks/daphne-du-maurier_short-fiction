@@ -55,7 +55,7 @@
 		<dc:source>https://archive.org/details/the-bystander/1930-1939/1930/The%20Bystander%20%231406Av108%20%281930-11-28%29%20-%20Christmas%20Issue%20%28BNA%29/page/60/mode/2up</dc:source>
 		<meta property="schema:wordCount">19484</meta>
 		<meta property="schema:educationalLevel">84.98</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/daphne-du-maurier_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Daphne du Maurier</dc:creator>
