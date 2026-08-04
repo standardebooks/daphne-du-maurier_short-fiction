@@ -33,7 +33,7 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
-		<dc:abstract>A collection of short stories by Daphne du Maurier.</dc:abstract>
+		<meta property="schema:abstract">A collection of short stories by Daphne du Maurier.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/daphne-du-maurier"&gt;Daphne du Maurier&lt;/a&gt;, one of the premier English novelists of the twentieth century, was also an accomplished short story writer. As with her novels, her short stories can be both humorous and dark, often with open endings. Many of them are framed around psychological themes, and feature characters who have difficulties precisely communicating.&lt;/p&gt;
 			&lt;p&gt;Some of her later shorts were made into films, most famously Alfred Hitchcock’s &lt;i&gt;The Birds&lt;/i&gt;. More recently her short stories have been singled out for praise by the American horror author Stephen King. Collected here are all of du Maurier’s short stories that are known to be in the public domain, arranged by first publication date.&lt;/p&gt;
